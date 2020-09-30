@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+
+[![Ye Eun's github stats](https://github-readme-stats.vercel.app/api?username=yjo5252&show_icons=true&theme=dracula)](https://github.com/yjo5252/github-readme-stats)
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjo5252&count_bg=%233DA7C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 <!--
 **yjo5252/yjo5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
