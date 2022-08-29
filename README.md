@@ -1,15 +1,15 @@
 ### Hi there 👋  
 
-1️⃣ 🧑‍🚀 Hello. My name is Yeeun Jo, 
+1️⃣ 🧑‍🚀 Hello. My name is Yeeun Jo.
 
-2️⃣ I love to travel, so I was looking for a way for college students to go abroad. I fell in love with software program while developing a VR game project at the EPIT University summer exchange program in Paris, France! Since then, I have been working on a development project, and in 2021, I applied AR technology in an in-school media arts class to produce and display brand marketing works. 
+2️⃣ I love to travel, so I was looking for a way for college students to go abroad. I fell in love with software programs while developing a VR game project at the EPIT University summer exchange program in Paris, France in 2018! Since then, I have been working on a development project, and in 2021, I applied AR technology in an in-school media arts class to produce and display brand marketing works.
 
-3️⃣ My fields of interest spans on Human-centered computing and Usable Privacy and Security.
+3️⃣ My research interests span Human-centered computing and Usable Privacy and Security.
 
-4️⃣ I want to create a service that uses technology to design people's lives!<br>
-✨ Research and service development in the fields of Human Computer Interaction and Human Factors.<br>
+4️⃣ I want to create a service that uses technology to design people's lives!
+✨ Research and service development in Human-Computer Interaction and Human Factors.
 
-5️⃣ My hobbies are tennis, photography, watching exhibitions/movies/documents, and visiting restaurants! I enjoy working on collaborative environment. I wish you all the best!💜
+5️⃣ My hobbies are tennis, photography, watching exhibitions/movies/documents, and visiting restaurants! I enjoy working in a collaborative environment. I wish you all the best!💜
 
 <!--
 [![Ye Eun's github stats](https://github-readme-stats.vercel.app/api?username=yjo5252&show_icons=true&theme=dracula)](https://github.com/yjo5252/github-readme-stats)
