@@ -1,14 +1,13 @@
 ### Hi there 👋  
 
-1️⃣ 🧑‍🚀 Hello. My name is Yeeun Jo, who studied a double major in Computer Engineering and Digital Humanities. My research area lies in the overlapping area of Human-computer interaction, Artificial intelligence, and Security and Privacy. I am in the joureny of finding more designated research statemnt.
+1️⃣ 🧑‍🚀 Hello. My name is Yeeun Jo, 
 
-2️⃣ I love to travel, so I was looking for a way for college students to go abroad. I fell in love with XR while developing a VR game project at the EPIT University summer exchange program in Paris, France! Since then, I have been working on a development project, and in 2021, I applied AR technology in an in-school media art class to produce and display brand marketing works. 
+2️⃣ I love to travel, so I was looking for a way for college students to go abroad. I fell in love with software program while developing a VR game project at the EPIT University summer exchange program in Paris, France! Since then, I have been working on a development project, and in 2021, I applied AR technology in an in-school media arts class to produce and display brand marketing works. 
 
-3️⃣ My fields of interest include Human-centered AI, XR service, BCI brain science service, IT product experience, and media art!
+3️⃣ My fields of interest spans on Human-centered computing and Usable Privacy and Security.
 
 4️⃣ I want to create a service that uses technology to design people's lives!<br>
-✨ Long-term goal (10 years) Research and service development in the fields of Human Computer Interaction and Human Factors.<br>
-✨ Short-term goal (6 months) XR development project, algorithm solving practice, and reading paper and research topics in HCI/AI/Haptic Interface. 
+✨ Research and service development in the fields of Human Computer Interaction and Human Factors.<br>
 
 5️⃣ My hobbies are tennis, photography, watching exhibitions/movies/documents, and visiting restaurants! I enjoy working on collaborative environment. I wish you all the best!💜
 
